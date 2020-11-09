@@ -23,7 +23,7 @@ This project will be broken down into three main notebooks:
 **Notebook 3: Train and Deploy Your Model in SageMaker**
 
 * Upload your train/test feature data to S3.
-* Define a binary classification model and a training script (Sklearn MLP Classifer used).
+* Define a binary classification model and a training script (Sklearn MLP Classifier used).
 * Train your model and deploy it using SageMaker.
 * Evaluate your deployed classifier.
 
